@@ -11,7 +11,7 @@ changes
 
 This will provide information about the project
 
-Please give pull request
+Please give pull request for adding changes
 
 ### Demo Text
 
