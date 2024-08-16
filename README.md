@@ -11,11 +11,8 @@ changes
 
 This will provide information about the project
 
-<<<<<<< HEAD
 Please give pull request for adding changes
-=======
 Please give pull request for adding changes in feature mix up
->>>>>>> feature
 
 ### Demo Text
 
