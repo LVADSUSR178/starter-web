@@ -6,7 +6,7 @@ This will be the title
 
 This will be a brief about the project
 changes.
-Changes done in the myf branch
+Changes done in the myf branch now
 
 ## Purpose
 
